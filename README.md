@@ -10,5 +10,5 @@
   Some data is already pre-made to play around with if you'd like.
 
   # Things to note
-  To use the billing and payments option, a booking must already have been made to see the booking you want to make a payment for. (I didn't pre-make a booking, so you have to make it)
+  To use the billing and payments option, a booking must already have been made to see the billing you want to make a payment for. (I didn't pre-make a booking, so you have to make it)
   The manage functions print the Clients, Pets, and Employees in the system to the terminal if you want to double check the stuff you made.
