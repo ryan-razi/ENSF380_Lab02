@@ -1,7 +1,7 @@
 ## ENSF380_Lab02
 
   # How to Run
-  To run the program, simply run the Application.java as a Java Application and the menu will print for you automatically for you to use.
+  To run the program, simply run the Application.java as a Java Application, and the menu will print for you automatically for you to use.
   Make sure that you have all the other required classes in the same package in order to run it.
 
   # How to Use
